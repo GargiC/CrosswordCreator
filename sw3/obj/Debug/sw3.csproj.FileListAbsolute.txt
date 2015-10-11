@@ -1,0 +1,17 @@
+C:\w3\sw3\sw3\bin\Debug\sw3.exe.config
+C:\w3\sw3\sw3\bin\Debug\sw3.exe
+C:\w3\sw3\sw3\bin\Debug\sw3.pdb
+C:\w3\sw3\sw3\obj\Debug\sw3.Form1.resources
+C:\w3\sw3\sw3\obj\Debug\sw3.Properties.Resources.resources
+C:\w3\sw3\sw3\obj\Debug\sw3.csproj.GenerateResource.Cache
+C:\w3\sw3\sw3\obj\Debug\sw3.exe
+C:\w3\sw3\sw3\obj\Debug\sw3.pdb
+C:\w3\sw3\sw3\obj\Debug\sw3.csprojResolveAssemblyReference.cache
+C:\PersonalProjects\sw3\sw3\bin\Debug\sw3.exe.config
+C:\PersonalProjects\sw3\sw3\obj\Debug\sw3.exe
+C:\PersonalProjects\sw3\sw3\obj\Debug\sw3.pdb
+C:\PersonalProjects\sw3\sw3\bin\Debug\sw3.exe
+C:\PersonalProjects\sw3\sw3\bin\Debug\sw3.pdb
+C:\PersonalProjects\sw3\sw3\obj\Debug\sw3.Form1.resources
+C:\PersonalProjects\sw3\sw3\obj\Debug\sw3.Properties.Resources.resources
+C:\PersonalProjects\sw3\sw3\obj\Debug\sw3.csproj.GenerateResource.Cache
