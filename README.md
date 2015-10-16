@@ -9,11 +9,17 @@ The Horizantal word is - badminton
 The Vertical word id - cricket
 
     c
+    
     r
+    
 badminton
+
     c
+    
     k
+    
     e
+    
     t
 
 - Arrange the words next to each other with one word in common so the incoming T already has a letter in common with the  developing puzzle in the grid.
@@ -22,10 +28,15 @@ As an example let's say we have the following list
 
 It can be arranged in pair with one connecting word in common.
 "hockey,football" (can become individual T)
+
 "football,badminton" (can become individual T)
+
 "badminton,cricket" (can become individual T)
+
 "cricket,volleyball" (can become individual T)
+
 "volleyball,tennis" (can become individual T)
+
 "tennis,billiards" (can become individual T)
 
 - The puzzle is dynamically created by attaching a new T to an existing puzzle in progress, till all the words in the comma separated string is done.
