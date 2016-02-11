@@ -47,4 +47,4 @@ It can be arranged in pair with one connecting word in common.
 
 - Repeat the above step for all rest of the words.
 
-- Haven't extensively tested yet.
+- Works perfect in most of the scenarios.
